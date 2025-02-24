@@ -1,4 +1,4 @@
-                            # Penetration-Testing:
+# Penetration-Testing:
 
 The repository contains two versions of the brute-force script:
 ## brute_force_attack.py:
